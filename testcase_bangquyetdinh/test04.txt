@@ -1,0 +1,7 @@
+Input:
+a = 1500
+b = 300
+Phép tính: Chia (/)
+Hành động: Thực hiện phép chia a / b
+Expected Output: 5
+Actual Output: 5

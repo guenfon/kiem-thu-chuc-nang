@@ -1,0 +1,7 @@
+Input:
+a = 5000
+b = 3000
+Phép tính: Cộng (+)
+Hành động: Thực hiện phép cộng a + b
+Expected Output: 8000
+Actual Output: 8000

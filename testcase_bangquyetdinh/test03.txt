@@ -1,0 +1,7 @@
+Input:
+a = 5000
+b = 3000
+Phép tính: Nhân (*)
+Hành động: Thực hiện phép nhân a * b
+Expected Output: 15000000
+Actual Output: 15000000

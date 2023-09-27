@@ -1,0 +1,7 @@
+Input:
+a = 8000
+b = 40
+Phép tính: Chia(/)
+Hành động: Thực hiện phép tính a / b
+Expected Output: 200
+Actual Output: 200

@@ -1,0 +1,7 @@
+Input:
+a = 8
+b = 9
+Phép tính: xor
+Hành động: Trả về trường hợp ngoại lệ theo yêu cầu bài toán
+Expected Output: The program can only perform four arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/).
+Actual Output: The program can only perform four arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/).

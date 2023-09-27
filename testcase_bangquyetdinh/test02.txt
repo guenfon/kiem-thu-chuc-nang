@@ -1,0 +1,7 @@
+Input:
+a = 9000
+b = 3000
+Phép tính: Trừ (-)
+Hành động: Thực hiện phép trừ a - b
+Expected Output: 6000
+Actual Output: 6000

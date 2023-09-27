@@ -1,0 +1,7 @@
+Input:
+a = 1500
+b = 0
+Phép tính: Chia (/)
+Hành động: Trả về trường hợp ngoại lệ theo yêu cầu bài toán
+Expected Output: You cannot divide by the number 0.
+Actual Output: You cannot divide by the number 0.

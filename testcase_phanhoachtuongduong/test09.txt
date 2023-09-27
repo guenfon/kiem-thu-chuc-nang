@@ -1,0 +1,6 @@
+Input:
+a = 8
+b = -90000
+Hành động: Trả về trường hợp ngoại lệ theo yêu cầu bài toán
+Expected Output: The number you input must fall within the range of [-10^4; 10^4].
+Actual Output: The number you input must fall within the range of [-10^4; 10^4].

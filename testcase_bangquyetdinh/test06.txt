@@ -1,0 +1,7 @@
+Input:
+a = 6000
+b = 4
+Phép tính: Mũ (^)
+Hành động: Trả về trường hợp ngoại lệ theo yêu cầu bài toán
+Expected Output: The program can only perform four arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/).
+Actual Output: The program can only perform four arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/).
